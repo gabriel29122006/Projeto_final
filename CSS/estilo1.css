@@ -1,0 +1,117 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    
+}
+
+header{
+    background-color: blue;
+    
+}
+
+header img {
+    width: 30%;
+    height: auto;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    display: block;
+    padding: 15px;
+    margin: 15px 70px 15px 70px;    
+    background-color: rgb(168, 225, 243);
+    border-radius: 10px;
+    font-size: 26px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+    p {
+        font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        line-height: 1.5;
+        font-size: 22px;
+  
+    }
+
+    main{
+        display: block;
+        padding: 15px;
+        margin: 15px 70px 15px 70px;    
+        background-color: rgb(252, 252, 252);
+        border-radius: 10px;
+        box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    }
+    
+    article {
+        display: block;
+        background-color: rgb(252, 252, 252);
+        border-radius: 10px;
+        box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+        width: 30%;
+        padding: 10px;
+        border: 2px solid #dad4d4;
+        margin: 10px;
+        
+    }
+    
+    article img{
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    article p {
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+
+    article h3 {
+        font-family: sans-serif;
+        font-size: 30px;
+        color: rgb(40, 53, 231);
+        font-weight: 1000;
+
+    }
+
+ .container {
+  display: flex;
+  gap: 10px; 
+  justify-content: center; 
+  flex-wrap: wrap; 
+}
+
+
+.caixa{
+        display: block;
+        padding: 15px;
+        margin: 15px 70px 15px 70px;    
+        background-color: rgb(107, 201, 255);
+        border-radius: 10px;
+        font-size: 26px;
+        box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+        border: 2px solid #dad4d4;;
+}
+
+footer {
+    background-color: blue;
+    
+
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}
+
+    
