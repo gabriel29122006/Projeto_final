@@ -45,7 +45,7 @@ nav{
 
     main{
         display: block;
-        padding: 10px;
+        padding: 10px 10px 10px 10px;
         margin: 15px 70px 15px 70px;    
         background-color: rgb(252, 252, 252);
         border-radius: 10px;
@@ -60,8 +60,7 @@ nav{
         width: 30%;
         padding: 10px;
         border: 2px solid #dad4d4;
-        margin: 10px;
-        
+        margin: 10px 10px 0px 0px;
     }
     
     article img{
@@ -85,7 +84,6 @@ nav{
 
  .container {
   display: flex;
-  gap: 10px; 
   justify-content: center; 
   flex-wrap: wrap; 
 }
